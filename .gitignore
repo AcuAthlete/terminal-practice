@@ -1,0 +1,10 @@
+# Mac system files
+.DS_Store
+
+
+# Screenshots
+*.png
+*.jpg
+
+# Temporary files
+*.tmp
